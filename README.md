@@ -4,6 +4,8 @@ A ProEssentials v10 WPF .NET 8 demonstration of the fastest possible
 realtime 3D surface update — 720,000 vertices rebuilt every 15ms using
 GPU compute shaders and a zero-copy circular buffer append strategy.
 
+This is a simple project, replace with a competitor to compare.
+
 ![ProEssentials 3D Realtime Surface](https://gigasoft.com/wpf-chart/screenshots/screen413.png)
 
 ➡️ [gigasoft.com/examples/413](https://gigasoft.com/examples/413)
