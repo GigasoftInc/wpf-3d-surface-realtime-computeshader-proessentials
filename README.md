@@ -6,7 +6,7 @@ GPU compute shaders and a zero-copy circular buffer append strategy.
 
 This is a simple project, replace with a competitor to compare.
 
-![ProEssentials 3D Realtime Surface](https://gigasoft.com/wpf-chart/screenshots/screen413.png)
+![ProEssentials 3D Realtime Surface](docs/Wpf-RealTime-Surface-GigaSoft-413.png)
 
 ➡️ [gigasoft.com/examples/413](https://gigasoft.com/examples/413)
 
